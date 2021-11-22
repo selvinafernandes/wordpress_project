@@ -1,0 +1,47 @@
+@import '../../sass/styles.scss';
+
+.navbar-menu {
+  padding-left: 0;
+}
+
+.navbar-menu-item {
+  color: $white;
+}
+
+.navbar-menu-item:hover {
+  text-decoration: none;
+}
+
+.navbar-menu {
+  margin-bottom: 0;
+  display: flex;
+  list-style-type: none;
+}
+
+.navbar-menu li {
+  padding-left: 24px;
+  padding-right: 24px;
+}
+
+.navbar-submenu {
+  position: fixed;
+  opacity: 0;
+  width: 125%;
+  left: -25%;
+  display: flex;
+  background: $white;
+  top: 62px;
+  justify-content: center;
+  padding: 50px 60px;
+}
+
+.navbar-submenu a {
+  color: $black;
+}
+.navbar-submenu-item {
+  color: $black;
+}
+
+.navbar-menu li:hover .navbar-submenu {
+  opacity: 1;
+}

@@ -1,0 +1,18 @@
+.footer {
+  padding: 0 90px;
+}
+
+@media only screen and (min-width: 991px) {
+  /* For mobile phones: */
+  .navbar-desktop {
+    display: flex;
+    align-items: center;
+  }
+  .navbar-mobile {
+    display: none;
+  }
+
+  .header-row {
+    flex-wrap: wrap;
+  }
+}

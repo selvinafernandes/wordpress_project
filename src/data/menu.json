@@ -1,0 +1,86 @@
+[
+  {
+    "_id": "1",
+    "index": 0,
+    "menu_title": "Solutions",
+    "menu_route": "solutions",
+    "category": {
+      "category_title": "By process",
+      "items": [
+        {
+          "id": 0,
+          "name": "IBP",
+          "route_name": "integrated-business-planning"
+        },
+        {
+          "id": 1,
+          "name": "Revenue",
+          "route_name": "revenue"
+        }
+      ]
+    }
+  },
+  {
+    "_id": "2",
+    "index": 1,
+    "menu_title": "Platform",
+    "menu_route": "platform",
+    "category": {
+      "category_title": "Platform",
+      "items": [
+        {
+          "id": 0,
+          "name": "Digital Brain",
+          "route_name": "digital-brain"
+        },
+        {
+          "id": 1,
+          "name": "Technology",
+          "route_name": "technology"
+        }
+      ]
+    }
+  },
+  {
+    "_id": "3",
+    "index": 2,
+    "menu_title": "Resources",
+    "menu_route": "resources",
+    "category": {
+      "category_title": "By process",
+      "items": [
+        {
+          "id": 0,
+          "name": "IBP",
+          "route_name": "integrated-business-planning"
+        },
+        {
+          "id": 1,
+          "name": "Revenue",
+          "route_name": "revenue"
+        }
+      ]
+    }
+  },
+  {
+    "_id": "4",
+    "index": 3,
+    "menu_title": "Resources",
+    "menu_route": "resources",
+    "category": {
+      "category_title": "By process",
+      "items": [
+        {
+          "id": 0,
+          "name": "IBP",
+          "route_name": "integrated-business-planning"
+        },
+        {
+          "id": 1,
+          "name": "Revenue",
+          "route_name": "revenue"
+        }
+      ]
+    }
+  }
+]
